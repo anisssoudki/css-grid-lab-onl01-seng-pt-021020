@@ -34,10 +34,10 @@ body {
   /*grid-column: 2 / 4;*/
   /*grid-area: 2 / 2 / 4 / 4;*/
   
-  /*grid-area: 2 / 2 / 4 / 4;*/
-  /*height: 50%;*/
-  /*width: 20%;*/
-  /*justify-self: center;*/
+  grid-area: 2 / 2 / 4 / 4;
+  height: 50%;
+  width: 20%;
+  justify-self: center;
 }
 
 /* add the .bigItem class */
