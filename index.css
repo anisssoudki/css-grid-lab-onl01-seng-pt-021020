@@ -35,8 +35,8 @@ body {
   /*grid-area: 2 / 2 / 4 / 4;*/
   
   grid-area: 2 / 2 / 4 / 4;
-  height: 10%;
-  width: 10%;
+  height: 100%;
+  width: 100%;
   justify-self: center;
 }
 
